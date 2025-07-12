@@ -1,0 +1,20 @@
+TY  - JOUR
+T1  - Low-emission methane fueled dual-bypass turbofan engine optimization based on machine learning: Energy-economic-environmental (3E) analysis
+AU  - Sabzehali, Mohammadreza
+AU  - Alibeigi, Mahdi
+AU  - Aliabadi, Saeed Karimian
+JO  - Cleaner Engineering and Technology
+VL  - 26
+SP  - 100919
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 2666-7908
+DO  - https://doi.org/10.1016/j.clet.2025.100919
+UR  - https://www.sciencedirect.com/science/article/pii/S2666790825000424
+KW  - Dual-bypass
+KW  - 3E analysis
+KW  - Optimization
+KW  - NSGA II
+KW  - Artificial intelligence
+AB  - In aero propulsion, fuel consumption and pollutant rate emitted by aero engines are the most important issues in supersonic flight. In this research, a dual-bypass turbofan engine is proposed as an alternative to conventional turbofan engines, having less fuel consumption and less pollutant production. Both primary pollutants of the combustion engine, nitrogen oxides (NOx) and carbon monoxide (CO), and the economic as well as the environmental indices, i.e., thrust-specific nitrogen oxide production rate (TSNOx, g/kN·s), thrust-specific carbon monoxide production rate (TSCO, g/kN·s), thrust-specific fuel consumption (TSFC, g/kN.s), thrust-specific fuel cost (TSFCC, $/kN·s), have been considered in this analysis. A machine learning-based prediction method was employed to accelerate the multi-objective optimization. It has shown the Random Forest technique could enhanced the convergence of NSGA-II. Based on the results, 40% increase in the first bypass ratio, would reduce TSFC by 10%, and a 100% increase in the second bypass ratio, would reduce TSFC by 5%. Boosting the pressure ratio of the high-pressure compressor can result in lower NOx and CO production, while boosting the turbine inlet temperature would cause more NOx production. Although, in the latter case the CO production is lower. The optimum design point of the proposed engine has been drawn based on optimization. The proposed methodology and the mathematical model presented here, could be assumed as a basis for comprehensive analysis of the dual bypass engine. It may expedite the future studies in the field of supersonic business engines characterized by reduced pollution and improved efficiency.
+ER  - 
