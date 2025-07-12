@@ -1,4 +1,4 @@
-# 🔧 ML-driven 3E Analysis of Methane-Fueled Dual-Bypass Turbofan Engines
+# 🔧 Low-emission methane fueled dual-bypass turbofan engine optimization based on machine learning: Energy-economic-environmental (3E) analysis
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/DOI/10.1016/j.clet.2025.100919.svg)](https://doi.org/10.1016/j.clet.2025.100919)
